@@ -112,7 +112,22 @@ The frontend will run on `http://localhost:5174`
 
 ## Screenshots
 
-<!-- Add screenshots here -->
+<img width="1893" height="957" alt="Screenshot 2025-12-28 170338" src="https://github.com/user-attachments/assets/530b0499-9af4-4c31-9039-7d36d9006d39" />
+
+<img width="1887" height="947" alt="Screenshot 2025-12-28 170432" src="https://github.com/user-attachments/assets/52962cdd-53be-45f9-a1f6-df1b4c9ed90f" />
+<img width="1911" height="970" alt="Screenshot 2025-12-28 170706" src="https://github.com/user-attachments/assets/72c91f1c-4331-4b70-b099-55b096110877" />
+
+<img width="1918" height="969" alt="Screenshot 2025-12-28 170739" src="https://github.com/user-attachments/assets/2078b549-0f6d-4e8c-bbb2-935628574c18" />
+<img width="1917" height="963" alt="Screenshot 2025-12-28 170757" src="https://github.com/user-attachments/assets/28563c10-db60-4b56-95da-75c6f61f31bb" />
+<img width="1902" height="947" alt="Screenshot 2025-12-28 170856" src="https://github.com/user-attachments/assets/f37a77d9-fedd-421f-ba67-ae51aed2b161" />
+
+<img width="1888" height="948" alt="Screenshot 2025-12-28 170921" src="https://github.com/user-attachments/assets/502f3772-67e8-448c-abd8-203207d62d9c" />
+
+<img width="1885" height="955" alt="Screenshot 2025-12-28 170946" src="https://github.com/user-attachments/assets/833abde9-d27e-4da5-8f24-f2f115c74677" />
+<img width="1886" height="951" alt="Screenshot 2025-12-28 171010" src="https://github.com/user-attachments/assets/692d8c4d-4353-463e-a6af-24455e000da6" />
+<img width="1896" height="943" alt="Screenshot 2025-12-28 171027" src="https://github.com/user-attachments/assets/fa35f54e-fc78-488b-a883-b835463ca396" />
+<img width="1897" height="959" alt="Screenshot 2025-12-28 171042" src="https://github.com/user-attachments/assets/3bcf1882-3fdb-4a82-b314-a12beb3d07c5" />
+
 
 ## Notes for Reviewers
 
